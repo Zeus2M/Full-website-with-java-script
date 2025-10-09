@@ -302,6 +302,11 @@ nav .small-screen-menu-icons img {
   }
 
 }
+.text {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}  
 
 .bar {
   display: flex;
